@@ -1,11 +1,9 @@
 {
-  "name": "obsidian-section-collapse",
+  "id": "obsidian-section-collapse",
+  "name": "Section Collapse",
   "version": "0.0.0",
+  "minAppVersion": "0.15.0",
   "description": "A lightweight Obsidian plugin to collapse all sections in the active document with a single click, enhancing workspace organization and usability.",
-  "main": "src/main.ts",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "MIT"
+  "author": "Reinhard Wansch",
+  "isDesktopOnly": false
 }
